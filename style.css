@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    border:  2px solid ;
+    margin: 70px;
+    min-height: 500px;
+}
+.container h3, h4 {
+    margin: 5rem auto;
+
+}
+
+form input {
+    margin: 1rem;
+}
+
+#listaActividades {
+    border: 1px solid;
+    min-height: 100px;
+    width:100%;
+}
+
